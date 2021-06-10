@@ -3,7 +3,7 @@
 The `getDimension` method returns the dimension of an array.
 Any arrays with 4 or more dimensions will return 3.
 
-**Works with:** 1d+ arrays
+**Works with:** 1d+ arrays  
 **Returns:** integer
 
 **Parameters:**
